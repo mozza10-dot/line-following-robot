@@ -2,7 +2,7 @@
 
 An Arduino Nano–based mobile robot designed to follow a track using an infrared sensor PCB and a dedicated motor-driver PCB.
 
-> **Project type:** Team project — this repository highlights my personal engineering contribution.
+> **Project type:** Semester 1 PBL, begun in August 2023; team project. This repository highlights my engineering contribution.
 
 ![Line-following robot chassis CAD](docs/images/line-follower-chassis-cad.png)
 
